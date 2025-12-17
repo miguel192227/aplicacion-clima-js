@@ -8,6 +8,9 @@ document.getElementById('botonBusqueda').addEventListener('click', () => {
     if(ciudad){
         fetchDatosClima(ciudad)
     }
+    else{
+        alert('Por favor ingrese el nombre de una ciudad')
+    }
 })    
 
 function fetchDatosClima(ciudad){
