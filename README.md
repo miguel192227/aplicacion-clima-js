@@ -13,7 +13,6 @@ Aplicación web para consultar el clima en tiempo real de diferentes ciudades ut
 - Visualización de temperatura y condiciones climáticas
 - Manejo de peticiones asincrónicas
 - Validación de datos de entrada
-- Manejo de errores
 
 ## 📚 Qué aprendí
 - Consumo de APIs REST
